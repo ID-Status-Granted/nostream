@@ -1,0 +1,12 @@
+{
+    "name": "NoStageStream",
+    "description": "Prevents Discord from auto-watching stage channel video streams, saving mobile data. Audio is unaffected.",
+    "authors": [
+        {
+            "name": "you",
+            "id": "000000000000000000"
+        }
+    ],
+    "main": "index.js",
+    "hash": ""
+}
