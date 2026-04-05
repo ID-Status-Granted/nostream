@@ -3,10 +3,10 @@
     "description": "Prevents Discord from auto-watching stage channel video streams, saving mobile data. Audio is unaffected.",
     "authors": [
         {
-            "name": "you",
-            "id": "000000000000000000"
+            "name": "ma3ceri",
+            "id": "1367589954997190866"
         }
     ],
     "main": "index.js",
-    "hash": ""
+    "hash": "e0f27184e6640e20a508474fcfed798c50406c1eb13804c81f3fa12556baf54b"
 }
